@@ -1,2 +1,2 @@
 # TUTORIALS
-A collection of distributed Debussy Tutorials and Documentation
+A collection of Debussy Tutorials and Documentation
