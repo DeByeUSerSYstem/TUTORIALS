@@ -1,0 +1,34 @@
+TYPE    XY-plot
+FILE     /Users/federica/DEBUSSY/DEBUSSY_TUTORIALS/DEBUSSY_TUTORIAL_TOSCALAKE/TiO2-Panalytical/DFA/TiO2_SIM_XPD#01.cal || 1 || 2 ||    ||    || 'o', ms=1, c='k',label='OBS'
+FILE        || 1 || 3 ||    ||    || c='g',label='CALC'
+FILE        || 1 || 6 ||    || x3,y3*0 || c='k'
+FILE        || 1 || 4 ||    || x4,y4+y3 || label='Rutile'
+FILE        || 1 || 5 ||    || x5,y5+y3 || label='Anatase'
+FILE        || 1 || 3 ||    || x1,y1-y2 || c='r',label='OBS-CALC'
+FILE        ||    ||    ||    ||    ||   
+FILE        ||    ||    ||    ||    ||   
+FILE        ||    ||    ||    ||    ||   
+FILE        ||    ||    ||    ||    ||   
+XRANGE     
+YRANGE     
+ZRANGE     
+THRESH     
+XLABEL     
+YLABEL     
+ZLABEL     
+XAXT     True
+XAXB     True
+YAXL     True
+YAXR     True
+XTC     True
+XTLBL     True
+YTC     True
+YTLBL     True
+ZTC     True
+ZTLBL     True
+LEGEND     
+TITLE     
+WIDTH     
+HEIGHT     
+FTYPE     
+FSIZE     

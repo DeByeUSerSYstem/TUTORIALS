@@ -1,0 +1,27 @@
+************ Datasets section ************
+#1        XRD
+  data    TiO2_Panalytical_SAMPLE_CORR.xye
+  form    4
+  rang    10.032 129.000 0.0660
+  cheb    12
+  wave    1.54056 1.54433 0.5
+  esdw    0.0001
+  beam    X
+  geom    transmDS 0.0
+************ Structures section ************
+%1        rutile
+  db03    ./DB_Rut/DISTANCES/SAMPTO330A/rutile_r
+  nclu    72
+  shap    SPH
+  parx    rutile.par
+%2        anatase
+  db04    ./DB_Anat/DISTANCES/SAMPTO330A/anatase
+  nrod    1 70 1 26
+  shap    PAR
+  parx    anatase.par
+************ Refinement section ************
+  simu    0
+  calm    1
+  rfil    TiO2.ref
+  outs    TiO2_SIM
+  rpdf    0

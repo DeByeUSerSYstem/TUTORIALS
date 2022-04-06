@@ -1,0 +1,15 @@
+STEP  twotheta
+XRNT  0
+WLEN  0.77476799 
+TWOT  1.02  120.0 0.01
+IMAX  15000.0
+PATH  ./DISTANCES/SAMPTO
+FILE  Codry_ortho_a010_c010_PAR.smp 
+NATO  4
+ZELE  27 7 6 1 
+BATO  1.0 1.0 1.0 2.0   
+FPRI  0.0 0.0 0.0 0.0  
+FDPR  0.0 0.0 0.0 0.0  
+
+
+

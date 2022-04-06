@@ -1,0 +1,32 @@
+!
+! PHASE SECTION
+! 
+Phase_Name (.pha/.xyz) (M) :   /Users/toscalab/DEBUSSY_2016/DEBUSSY_TUTORIALS/TUTORIAL/CLAUDE-Utilities/PATTERN/magnetite_r005_SPH.xyz
+Spacegroupnumber_orig (M) :   
+Atomic Species No. (M) :   
+Cell Origin (M) :     
+Pearson Symbol (M) (max 4 ch.) :   
+Constr :   
+OCC1  n
+Reduced minimal distance  0.0
+Density (g/cm^3)  5.17
+!
+! SHAPE SECTION
+! 
+Shape of Clusters (M) :   
+Diam_max/Edge_max of SPH/QBE (nm) :   
+N_max of SPH/QBE :   
+D_max of PAR/CYL/HEX (nm) :   
+L_max of PAR/CYL/HEX (nm) :   
+N1_max of PAR/CYL/HEX :   
+N2_max of PAR/CYL/HEX :   
+!
+! SAMPLING SECTION
+! 
+Sampling (M) :   One
+Wavelength (M) :    0.82712108
+2-Theta Max (M) :    120.0
+!
+! TODO SECTION
+! 
+TODO  largest_only

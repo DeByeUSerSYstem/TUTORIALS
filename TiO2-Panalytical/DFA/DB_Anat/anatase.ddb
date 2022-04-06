@@ -1,0 +1,18 @@
+Phase_Name (.pha/.xyz) (M) :   anatase.pha
+Spacegroupnumber_orig (M) :    141 o2
+Atomic Species No. (M) :    2
+Cell Origin (M) :   0.0 0.0 0.0
+Pearson Symbol (M) (max 4 ch.) :    tI00
+Constr :   P
+OCC1  y
+Shape of Clusters (M) :    PAR
+Diam_max of SPH (nm) :    
+N_max of SPH :    
+D_max of PAR/CYL/HEX (nm) :    
+L_max of PAR/CYL/HEX (nm) :    
+N1_max of PAR/CYL/HEX :    70
+N2_max of PAR/CYL/HEX :    26
+Sampling (M) :    One
+Wavelength (M) :    1.5418
+2-Theta Max (M) :    130.0
+TODO all_clusters

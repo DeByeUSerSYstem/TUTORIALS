@@ -1,0 +1,24 @@
+************ Datasets section ************
+#1        XRD
+  data    F28_15keV_SAMPLE_CORR.xye
+  form    4
+  rang    6.7 130.0 0.0036 2
+  blnk    F23_15keV_SAMPLE_CORR.xye
+  blnc    1 0
+  cheb    0
+  wave    0.82712108
+  esdw    0.0007
+  beam    S
+  geom    transmDS 0.0
+************ Structures section ************
+%1        magnetite
+  db03    /Users/toscalab/DISCA-TUTORIAL/Fe3O4/DFA/DB/DISTANCES/SAMPTO180A/magnetite_r
+  nclu    16
+  shap    SPH
+  parx    magnetite.par
+************ Refinement section ************
+  simu    0
+  calm    1
+  rfil    magnetite.ref
+  outs    magnetite_SIM
+  rpdf    0

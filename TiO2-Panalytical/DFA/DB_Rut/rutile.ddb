@@ -1,0 +1,18 @@
+Phase_Name (.pha/.xyz) (M) :   rutile.pha
+Spacegroupnumber_orig (M) :    136
+Atomic Species No. (M) :    2
+Cell Origin (M) :   0.0 0.0 0.0
+Pearson Symbol (M) (max 4 ch.) :    tP00
+Constr :   P
+OCC1  y
+Shape of Clusters (M) :    SPH
+Diam_max/Edge_max of SPH/QBE (nm) :     35.0 
+N_max of SPH/QBE :    
+D_max of PAR/CYL/HEX (nm) :    
+L_max of PAR/CYL/HEX (nm) :    
+N1_max of PAR/CYL/HEX :    
+N2_max of PAR/CYL/HEX :    
+Sampling (M) :    one
+Wavelength (M) :    1.5418
+2-Theta Max (M) :    130.0
+TODO all_clusters
